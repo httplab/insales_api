@@ -32,6 +32,7 @@ module InsalesApi
     autoload :File
     autoload :Image
     autoload :JsTag
+    autoload :Notification
     autoload :OptionName
     autoload :OptionValue
     autoload :Order
@@ -45,6 +46,7 @@ module InsalesApi
     autoload :Characteristic
     autoload :RecurringApplicationCharge
     autoload :Theme
+    autoload :User
     autoload :Variant
     autoload :Webhook
   end
